@@ -1,0 +1,11 @@
+Changelog 
+
+relese 24.04.2021
+added features:
+
+1. added color presets 
+2. added editor for allready created files
+
+bug fixes:
+-minor fix allows you to now not save a config  
+- prevent the program from chrashing if you type in something wrong 
